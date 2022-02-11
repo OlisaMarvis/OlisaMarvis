@@ -1,12 +1,16 @@
-### Hi there 👋
+# Hi, I'm Olisa 👋
 
+## I'm a Automated Teller Machines Mintenance Engineer 
+## Who transitioned to a DevOps Engineer and software developer and never looked back.
+## Currently a certified Amazon certified cloud practitioner (AWS).
+
+- 🌱 I’m currently learning DevOps tools and technologies
 <!--
-**OlisaMarvis/OlisaMarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DevOps tools and technologies
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
