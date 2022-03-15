@@ -1,7 +1,7 @@
 # Hi, I'm Olisa 👋
 
 ## I'm an Automated Teller Machines Maintenance Engineer 
-## Who transitioned to DevOps Engineering and software development and never looked back.
+## Who transitioned to DevOps Engineering and software development.
 ## Currently a certified Amazon certified cloud practitioner (AWS).
 
 - 🌱 I’m currently learning DevOps tools, technologies and software development.
