@@ -1,7 +1,7 @@
 # Hi, I'm Olisa 👋
 
-##I am DevOps and Fullstack software developer.
-## Currently a certified Amazon certified cloud practitioner (AWS).
+## I am DevOps and Fullstack software developer.
+### Currently a certified Amazon certified cloud practitioner (AWS).
 
 - 🌱 I’m currently learning DevOps tools, technologies and software development.
 <!--
