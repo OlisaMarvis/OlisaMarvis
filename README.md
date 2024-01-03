@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OLisaMarvis&label=Profile%20views&color=0e75b6&style=flat" alt="OlisaMarvis" /> </p>
 
-- 🌱 I’m currently learning **Software architecture, system Design**
+- 🌱 I’m currently learning **DevOps Tools, Software architecture, System Design**
 
-- 💬 Ask me about **C#/.NET core/ AWS / DevOps**
+- 💬 Ask me about **C#/.NET core/ AWS / Azure / DevOps**
 
 - 📫 How to reach me **okpala.olisaemeka@gmail.com**
 
