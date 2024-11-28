@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Olisaemeka</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate Sofware Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OLisaMarvis&label=Profile%20views&color=0e75b6&style=flat" alt="OlisaMarvis" /> </p>
 
-- 🌱 I’m currently learning **DevOps Tools, Software architecture, System Design**
+- 🌱 I’m currently learning **Software architecture, System Design, distributed systems**
 
-- 💬 Ask me about **C#/.NET core/ AWS / Azure / DevOps**
+- 💬 Ask me about **C#/.NET core/ AWS / Azure / Digital Ocean / Huawei cloud / DevOps**
 
 - 📫 How to reach me **okpala.olisaemeka@gmail.com**
 
