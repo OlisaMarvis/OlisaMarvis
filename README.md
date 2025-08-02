@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software architecture, System Design, distributed systems**
 
-- 💬 Ask me about **C#/.NET core/ AWS / Azure / Digital Ocean / Huawei cloud / DevOps**
+- 💬 Ask me about **C#/.NET core/ Typescript/ AWS / Azure / Digital Ocean / Huawei cloud / SRE / DevOps**
 
 - 📫 How to reach me **okpala.olisaemeka@gmail.com**
 
