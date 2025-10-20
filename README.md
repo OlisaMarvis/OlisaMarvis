@@ -1,24 +1,86 @@
-<h1 align="center">Hi 👋, I'm Olisaemeka</h1>
-<h3 align="center">A passionate Sofware Engineer</h3>
+<h1 align="center">Hi 👋, I'm Olisaemeka Okpala</h1>
+<h3 align="center">DevOps & Backend Engineer | Cloud Architect | SRE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OLisaMarvis&label=Profile%20views&color=0e75b6&style=flat" alt="OlisaMarvis" /> </p>
-
-- 🌱 I’m currently learning **Software architecture, System Design, distributed systems**
-
-- 💬 Ask me about **C#/.NET core/ Typescript/ AWS / Azure / Digital Ocean / Huawei cloud / SRE / DevOps**
-
-- 📫 How to reach me **okpala.olisaemeka@gmail.com**
-
-- ⚡ Fun fact **I'm super curious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/okpala-olisaemeka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okpala-olisaemeka" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/okpala-olisaemeka/" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OlisaMarvis&show_icons=true&locale=en&layout=compact" alt="OlisaMarvis" /></p>
+### 🌍 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OlisaMarvis&show_icons=true&locale=en" alt="OlisaMarvis" /></p>
+🚀 I’m a **DevOps and Backend Engineer** passionate about building scalable, secure, and resilient systems.  
+☁️ I design and deploy infrastructures across **AWS**, **Azure**, **DigitalOcean**, and **Huawei Cloud**.  
+💡 My focus spans **Infrastructure as Code (IaC)**, **Serverless Architectures**, and **Kubernetes-based platforms**.  
+🧰 I build efficient backends using **C#/.NET Core** and **TypeScript/Node.js** — with strong emphasis on **performance, automation, and reliability**.  
+⚙️ I thrive on optimizing CI/CD, implementing monitoring systems, and ensuring production resilience as part of modern **SRE practices**.
+
+---
+
+### 🧰 Languages & Technologies
+
+#### 💻 Core Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+</p>
+
+#### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/DigitalOcean_logo.svg" alt="DigitalOcean" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Huawei_Logo.svg" alt="Huawei Cloud" width="80" height="45"/>
+</p>
+
+#### 🧠 DevOps & SRE Tooling
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" alt="ArgoCD" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="GitHub Actions" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</p>
+
+#### 📊 Observability & Reliability
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/loki/loki-icon.svg" alt="Loki" width="45" height="45"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlisaMarvis&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlisaMarvis&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 🎯 Current Focus Areas
+
+- Multi-cloud DevOps (AWS, Azure, DigitalOcean, Huawei)
+- Infrastructure as Code (Terraform, CDK)
+- Kubernetes scaling, optimization, and observability
+- CI/CD Automation (GitHub Actions, ArgoCD)
+- SRE best practices and production reliability
+- Serverless and containerized backend architectures
+
+---
+
+### 🤝 Let’s Connect
+
+📫 [LinkedIn](https://www.linkedin.com/in/okpala-olisaemeka/)  
+🌐
